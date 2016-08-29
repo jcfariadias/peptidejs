@@ -64,8 +64,6 @@
 
         document.body.appendChild(domFragment);
 
-        window.getComputedStyle(this.modal).height;
-
 	}
 
 	function buildLayout() {
